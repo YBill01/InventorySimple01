@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7496aeb141c384081993985557715b, type: 3}
+  m_Name: PlayerStockSlot01Config
+  m_EditorClassIdentifier: 
+  capacity: 2
+  stackable: 0
+  condition:
+    types: 21000000
+    includeFilter:
+      items:
+      - {fileID: 11400000, guid: 13691131ac5cd07439e8dd3866b864d6, type: 2}
+      - {fileID: 11400000, guid: a415a6031b9741d41ad0761335bbd28a, type: 2}
+    excludeFilter:
+      items: []
+    sharedData: {fileID: 11400000, guid: 194aefeca00898c4785fac6b7f1774cf, type: 2}

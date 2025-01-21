@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c61db406b071e4d8794ddecb6f31e9, type: 3}
+  m_Name: PlayerStockConfig
+  m_EditorClassIdentifier: 
+  slots:
+  - {fileID: 11400000, guid: a1a86db4e71ec644095db2f7e28fad1e, type: 2}
+  - {fileID: 11400000, guid: 5f95522ccf3684a4694e213730b9d1a3, type: 2}
+  - {fileID: 11400000, guid: 789d27ab6c9965847a432b6addc7d43b, type: 2}
+  - {fileID: 11400000, guid: 5df56e22497af124492da147c13e1867, type: 2}
+  - {fileID: 11400000, guid: 465a01317d9652c48bf55b27d7a92eab, type: 2}
+  transferDuration: 0.1
+  sharedData: {fileID: 11400000, guid: 194aefeca00898c4785fac6b7f1774cf, type: 2}

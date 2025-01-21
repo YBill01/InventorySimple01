@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0848475f611c65b429ba38ed333e92ad, type: 3}
+  m_Name: ItemView03
+  m_EditorClassIdentifier: 
+  displayName: Map
+  icon: {fileID: 21300000, guid: 4d5c2d6d06ccb43498f36d097c8f300c, type: 3}
+  dropedPrefab: {fileID: 1255458598037038077, guid: 175d12f9337fbfe469a7f1795981428d, type: 3}
+  stockedPrefab: {fileID: 0}
+  transferredPrefab: {fileID: 6594150088597630042, guid: 6f4977005bb267c40aa5604c39937aa6, type: 3}

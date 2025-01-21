@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0848475f611c65b429ba38ed333e92ad, type: 3}
+  m_Name: ItemView09
+  m_EditorClassIdentifier: 
+  displayName: Binoculars
+  icon: {fileID: 21300000, guid: 95fa03c9114332c41bb51677356017a8, type: 3}
+  dropedPrefab: {fileID: 1255458598037038077, guid: 24d583526f0fb0348a33c5a37bb815b8, type: 3}
+  stockedPrefab: {fileID: 0}
+  transferredPrefab: {fileID: 6594150088597630042, guid: 593b6cced767c644dbe0c1d1083e3e3d, type: 3}

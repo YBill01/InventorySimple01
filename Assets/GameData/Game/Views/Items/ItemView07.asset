@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0848475f611c65b429ba38ed333e92ad, type: 3}
+  m_Name: ItemView07
+  m_EditorClassIdentifier: 
+  displayName: Pan
+  icon: {fileID: 21300000, guid: 6114f94bae0a0564e86aae89c12234c2, type: 3}
+  dropedPrefab: {fileID: 1255458598037038077, guid: d67b83670d0a86e4c839c8ac8321ca36, type: 3}
+  stockedPrefab: {fileID: 4370103324480710520, guid: 6a1cfae7359f3374484023796cfb09f5, type: 3}
+  transferredPrefab: {fileID: 6594150088597630042, guid: 84756a0722557934788977852fc79f72, type: 3}
